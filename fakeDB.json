@@ -1,0 +1,40 @@
+{
+    "posts":[
+        {
+          "id": 101,
+          "title": "Exploring the Universe",
+          "description": "A journey through space and time, unraveling mysteries of distant galaxies and cosmic phenomena, igniting the curiosity of stargazers and scientists alike.",
+          "likes_count": 358
+        },
+        {
+          "id": 102,
+          "title": "The Art of Culinary Fusion",
+          "description": "A delightful blend of flavors from diverse cultures, showcasing innovative recipes and culinary techniques that tantalize taste buds worldwide.",
+          "likes_count": 482
+        },
+        {
+          "id": 103,
+          "title": "Empowering Tomorrow's Innovators",
+          "description": "Fostering creativity and ingenuity in young minds through educational programs, inspiring a new generation of inventors and problem solvers.",
+          "likes_count": 217
+        },
+        {
+          "id": 104,
+          "title": "Nature's Serene Symphony",
+          "description": "Immersing in the tranquil beauty of untouched landscapes, celebrating the harmony of ecosystems and the importance of conservation efforts.",
+          "likes_count": 635
+        },
+        {
+          "id": 105,
+          "title": "The World of Quantum Computing",
+          "description": "Diving into the realm of quantum mechanics and computing, revolutionizing technology and opening doors to unparalleled advancements.",
+          "likes_count": 894
+        },
+        {
+          "id": 106,
+          "title": "Rediscovering Ancient Civilizations",
+          "description": "Unearthing lost civilizations and unraveling their rich history, shedding light on the diverse cultures that shaped our world.",
+          "likes_count": 721
+        }
+      ]      
+}
